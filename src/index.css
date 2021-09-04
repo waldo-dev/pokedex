@@ -38,7 +38,8 @@ header .buscador{
 .pokemon_list {
   display: flex;
   flex-wrap: wrap;
-  width: 80%;
+  width: 100%;
+  justify-content: center;
 }
 /*-----------POKEMON-CARD----------*/
 .card{
